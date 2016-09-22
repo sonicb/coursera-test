@@ -13,6 +13,8 @@ h1 {
 
 .sectionHeader {
   border: 2px solid black;
+  border-top: 0px;
+  border-right: 0px;
   margin-right: auto;
   margin-left: auto;
   position: absolute;
